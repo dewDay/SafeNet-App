@@ -34,11 +34,11 @@ SafeNet is designed with multiple verification layers, including:
 * Liveness verification
 * Device verification
 * Responder verification
-* Suspicious-activity monitoring
+* Suspicious activity monitoring
 
 # Generative AI:
 
-The AI can interpret information from the user and determine what kind of assistance may be needed. Instead of simply showing a route, the AI can explain why one route may be preferable to another. During an emergency, the system can turn raw information such as location, time, nearby facilities and available responders into a short, easy-to-understand summary.
+The AI can interpret information from the user and determine what kind of assistance may be needed. Instead of simply showing a route, the AI can explain why one route may be preferable to another. During an emergency, the system can turn raw information such as location, time, nearby facilities and available responders into a short, easy to understand summary.
 AI can also help identify unusual patterns that may require additional verification or human review and clears suspicious activity. Importantly, **AI is not responsible for deciding whether a real emergency is genuine.**
 
 
@@ -61,7 +61,7 @@ SafeNet includes an essentials section where users can find or request things su
 * Baby essentials
 * Hygiene products
 * Other locally available necessities
-The long-term goal is to connect users with nearby participating stores and services.
+The long term goal is to connect users with nearby participating stores and services.
 
 # Preventing Misuse:
 
@@ -77,20 +77,19 @@ A system designed to protect people can itself become harmful if it is abused. S
 AI can flag suspicious activity for additional verification or human review.
 
 
-
 # Current Prototype:
 
 This repository contains our hackathon prototype demonstrating the core SafeNet experience and product concept.
 Some features currently use simulated data, including:
 
-* Emergency-service integration
+* Emergency service integration
 * Identity verification
-* Real-time responder matching
+* Real time responder matching
 * Hospital and ambulance availability
 * Product delivery
-* Production-grade location services
+* Production grade location services
 
-A real-world deployment would require official APIs, service partnerships, extensive security testing, privacy reviews, legal compliance and independent safety validation.
+A real world deployment would require official APIs, service partnerships, extensive security testing, privacy reviews, legal compliance and independent safety validation.
 
 
 # Team:

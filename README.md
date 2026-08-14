@@ -1,4 +1,4 @@
-# SafeNet-App
+# SafeNet App
 SafeNet is an AI powered privacy first safety network for women, providing safer route recommendations, one tap emergency response, verified nearby responders, police &amp; hospital assistance, maternity support and essential supplies, all designed to turn critical moments into coordinated action.
 SafeNet is a platform built to help women feel safer while travelling, respond quickly when something goes wrong and connect with trusted help nearby.
 When someone feels unsafe **SafeNet helps them find a safer path, reach the right people and get the support they need.**
